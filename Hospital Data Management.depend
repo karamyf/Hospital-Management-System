@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1650048191 source:c:\users\karam\desktop\home\work\[c++] coding\studentmanagementsystem\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	<mysql.h>
+	"patient.h"
+	"doctor.h"
+	<string>
+	<fstream>
+	<vector>
+	<bits/stdc++.h>
+
+1476096933 c:\program files\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476096946 c:\program files\dev-cpp\mingw64\include\mysql_com.h
+
+1476096972 c:\program files\dev-cpp\mingw64\include\mysql_time.h
+
+1476096983 c:\program files\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1476097123 c:\program files\dev-cpp\mingw64\include\typelib.h
+
+1476097168 c:\program files\dev-cpp\mingw64\include\my_list.h
+
+1476097177 c:\program files\dev-cpp\mingw64\include\my_alloc.h
+
+1649366686 source:c:\users\karam\desktop\home\work\[c++] coding\studentmanagementsystem\src\partient.cpp
+	"patient.h"
+	<iostream>
+
+1650045475 c:\users\karam\desktop\home\work\[c++] coding\studentmanagementsystem\include\patient.h
+
+1649366683 source:c:\users\karam\desktop\home\work\[c++] coding\studentmanagementsystem\src\doctor.cpp
+	"doctor.h"
+	<iostream>
+
+1649595170 c:\users\karam\desktop\home\work\[c++] coding\studentmanagementsystem\include\doctor.h
+

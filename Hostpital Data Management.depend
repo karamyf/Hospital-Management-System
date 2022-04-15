@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1633798138 source:c:\users\karam\desktop\student data management\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
